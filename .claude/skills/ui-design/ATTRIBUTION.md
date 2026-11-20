@@ -22,6 +22,8 @@
 | `topics/harden.md` | Impeccable `harden.md` | Apache-2.0 |
 | `topics/empty-onboard.md` | Impeccable `onboard.md` | Apache-2.0 |
 | `topics/korean.md` | 자체, IME 규칙은 UI/UX Pro Max `ux-guidelines.csv` | MIT |
+| `topics/craft.md` | 자체 (F1). AI 기본값 4·5는 frontend-design "calibration" 목록에서 줄여 옮김. 레퍼런스 규칙은 TDS·SEED·Primer 공개 문서를 우리 말로 요약하고 주소만 둠 (문서 복사 없음) | Apache-2.0 (frontend-design 부분) |
+| `topics/color.md`, `scripts/palette.py` | 자체 (D18). OKLCH 변환식은 Björn Ottosson의 공개 OKLab 식. 회색·단계 근거는 TDS·SEED 공개 토큰을 측정 | — |
 | `topics/value-density.md` | 자체. 사용자가 카드 게임 정보 표 작업(2026-11-14)에서 내린 수정 지시를 일반화 | — |
 
 원문 위치
